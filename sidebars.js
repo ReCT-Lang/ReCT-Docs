@@ -19,6 +19,7 @@ const sidebars = {
       type: 'doc',
       id: 'documentation'
     },
+
     {
       type: 'category',
       label: 'Tutorial',
@@ -26,6 +27,16 @@ const sidebars = {
         {
           type: 'doc',
           id: 'tutorial/installation'
+        },
+
+        {
+          type: 'doc',
+          id: 'tutorial/projectsetup'
+        },
+
+        {
+          type: 'doc',
+          id: 'tutorial/helloworld'
         }
       ],
     },
